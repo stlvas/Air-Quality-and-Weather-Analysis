@@ -73,10 +73,6 @@ To replicate the environment used in this project, follow these steps:
     conda env create --file environment.yml
     conda activate aqi_project_env
     ```
-3. **Install additional packages:**
-    ```sh
-    pip install pandas seaborn matplotlib
-    ```
 
 ## Usage
 1. **Clone the repository:**
