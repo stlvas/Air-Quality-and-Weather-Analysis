@@ -24,6 +24,7 @@ This project is a part of the [Data Analytics Bootcamp](https://bigblue.academy/
 - [Project Presentation](#project-presentation)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 ## Project Overview
 The purpose of this project is to study air quality and climate dynamics in California and identify critical facts for insurance focus areas. 
