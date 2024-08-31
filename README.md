@@ -10,7 +10,8 @@ This project is a part of the [Data Analytics Bootcamp](https://bigblue.academy/
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Project Objectives](#project-objectives)
+- [Project Description](#project-description)
+- [Project Roadmap](#project-roadmap)
 - [Data Sources](#data-sources)
 - [Installation and Requirements](#installation-and-requirements)
   - [Prerequisites](#prerequisites)
