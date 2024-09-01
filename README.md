@@ -77,11 +77,11 @@ To replicate the environment used in this project, follow these steps:
 ## Usage
 1. **Clone the repository:**
     ```sh
-    git clone git@github.com:alagogianni/Air-Quality-and-Weather-Analysis.git
+    git clone git@github.com:stlvas/Air-quality-and-weather-analysis.git
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd Air-Quality-and-Weather-Analysis
+    cd Air-quality-and-weather-analysis
     ```
 3. **Run Jupyter Notebooks:** Start Jupyter Notebook or JupyterLab and open the notebooks located in the `Data_preprocessing`, `Data_merging`, and `Analysis` directories.
 
