@@ -88,10 +88,10 @@ To replicate the environment used in this project, follow these steps:
 ## Visualizations
 Here are some key visualizations from the project:
 
-- **AQI and Heatwaves:** ![AQI and Heatwaves](https://github.com/alagogianni/Air-Quality-and-Weather-Analysis/blob/main/Visualizations/AQI%20and%20Heatwaves.png)
-- **Monthly and Seasonal AQI trends:** ![Monthly and Seasonal AQI trends](https://github.com/alagogianni/Air-Quality-and-Weather-Analysis/blob/main/Visualizations/Monthly%20and%20Seasonal%20AQI%20trends.png)
-- **AQI in Urban vs Rural Areas:** ![AQI in Urban vs Rural Areas](https://github.com/alagogianni/Air-Quality-and-Weather-Analysis/blob/main/Visualizations/AQI%20%26%20Urban%20and%20Rural%20Areas.png)
-- **Urban and Rural Key Pollutants:** ![Urban and Rural Key Pollutants](https://github.com/alagogianni/Air-Quality-and-Weather-Analysis/blob/main/Visualizations/Urban%20and%20Rural%20Key%20Pollutants.png)
+- **AQI and Heatwaves:** ![AQI and Heatwaves](https://github.com/stlvas/Air-quality-and-weather-analysis/blob/master/Visualizations/AQI%20and%20Heatwaves.png)
+- **Monthly and Seasonal AQI trends:** ![Monthly and Seasonal AQI trends](https://github.com/stlvas/Air-quality-and-weather-analysis/blob/master/Visualizations/Monthly%20and%20Seasonal%20AQI%20trends.png)
+- **AQI in Urban vs Rural Areas:** ![AQI in Urban vs Rural Areas](https://github.com/stlvas/Air-quality-and-weather-analysis/blob/master/Visualizations/AQI%20%26%20Urban%20and%20Rural%20Areas.png)
+- **Urban and Rural Key Pollutants:** ![Urban and Rural Key Pollutants](https://github.com/stlvas/Air-quality-and-weather-analysis/blob/master/Visualizations/Urban%20and%20Rural%20Key%20Pollutants.png)
 
 ## Results and Findings
 Key insights from the analysis include:
