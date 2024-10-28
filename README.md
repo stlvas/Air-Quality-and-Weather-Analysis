@@ -50,6 +50,8 @@ EPA also monitors weather parameters, winds, temperature, barometric pressure et
 - **Seasonal and Urban-Rural Analysis:** Studied AQI trends across different seasons and between urban and rural areas.
 - **Implications for Insurance:** Provided recommendations for risk assessment and policy adjustments.
 
+For a detailed, step-by-step explanation of each stage in this project, please refer to the **[Notebook Walkthrough README](https://github.com/stlvas/Air-quality-and-weather-analysis/blob/master/Notebooks_Walkthrough.md)**. This document provides insights into the purpose and methodology behind each notebook, including data preprocessing, merging, analysis, and visualization steps
+
 ## Data Sources
 - **EPA:** U.S. Environmental Protection Agency data for air quality and weather parameters. Historical data collected over 20 years, including pollutants like PM2.5, PM10, NO2, CO, SO2, O3, and weather parameters such as temperature and pressure.
 
